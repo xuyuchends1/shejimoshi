@@ -1,0 +1,6 @@
+E:\phil\workspace\selfwork\设计模式\代理模式\obj\Debug\代理模式.csprojResolveAssemblyReference.cache
+E:\phil\workspace\selfwork\设计模式\代理模式\bin\Debug\代理模式.exe.config
+E:\phil\workspace\selfwork\设计模式\代理模式\bin\Debug\代理模式.exe
+E:\phil\workspace\selfwork\设计模式\代理模式\bin\Debug\代理模式.pdb
+E:\phil\workspace\selfwork\设计模式\代理模式\obj\Debug\代理模式.exe
+E:\phil\workspace\selfwork\设计模式\代理模式\obj\Debug\代理模式.pdb
