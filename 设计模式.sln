@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "代理模式", "代理模式\代理模式.csproj", "{5AEC9620-7EA8-42F5-ABBD-1DE25043A37B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "原型模式", "原型模式\原型模式.csproj", "{8CCE9A9B-F703-470D-86D0-3E3112A20EAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5AEC9620-7EA8-42F5-ABBD-1DE25043A37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AEC9620-7EA8-42F5-ABBD-1DE25043A37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AEC9620-7EA8-42F5-ABBD-1DE25043A37B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCE9A9B-F703-470D-86D0-3E3112A20EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCE9A9B-F703-470D-86D0-3E3112A20EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCE9A9B-F703-470D-86D0-3E3112A20EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCE9A9B-F703-470D-86D0-3E3112A20EAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
