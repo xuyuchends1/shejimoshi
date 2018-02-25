@@ -10,8 +10,8 @@ namespace 单例模式
     {
         static void Main(string[] args)
         {
-            Singleton s1 = Singleton.getInstance();
-            Singleton s2 = Singleton.getInstance();
+            Singleton s1 = Singleton.GetInstance();
+            Singleton s2 = Singleton.GetInstance();
 
         }
     }
